@@ -474,13 +474,13 @@
                   "version": "1.204.0"
                 }
               },
-              "4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7": {
-                "id": "4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7",
-                "path": "MyShopBucket/AssetParameters/4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7",
+              "8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2b": {
+                "id": "8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2b",
+                "path": "MyShopBucket/AssetParameters/8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2b",
                 "children": {
                   "S3Bucket": {
                     "id": "S3Bucket",
-                    "path": "MyShopBucket/AssetParameters/4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7/S3Bucket",
+                    "path": "MyShopBucket/AssetParameters/8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2b/S3Bucket",
                     "constructInfo": {
                       "fqn": "@aws-cdk/core.CfnParameter",
                       "version": "1.204.0"
@@ -488,7 +488,7 @@
                   },
                   "S3VersionKey": {
                     "id": "S3VersionKey",
-                    "path": "MyShopBucket/AssetParameters/4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7/S3VersionKey",
+                    "path": "MyShopBucket/AssetParameters/8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2b/S3VersionKey",
                     "constructInfo": {
                       "fqn": "@aws-cdk/core.CfnParameter",
                       "version": "1.204.0"
@@ -496,7 +496,7 @@
                   },
                   "ArtifactHash": {
                     "id": "ArtifactHash",
-                    "path": "MyShopBucket/AssetParameters/4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7/ArtifactHash",
+                    "path": "MyShopBucket/AssetParameters/8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2b/ArtifactHash",
                     "constructInfo": {
                       "fqn": "@aws-cdk/core.CfnParameter",
                       "version": "1.204.0"
@@ -591,7 +591,7 @@
                                           },
                                           ":s3:::",
                                           {
-                                            "Ref": "AssetParameters4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7S3Bucket7B29FD24"
+                                            "Ref": "AssetParameters8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2bS3BucketF797CD30"
                                           }
                                         ]
                                       ]
@@ -606,7 +606,7 @@
                                           },
                                           ":s3:::",
                                           {
-                                            "Ref": "AssetParameters4da3e2d2cb751543a783b8679a91ad3d76bf0b24013e4aac2d095f07ef7728b7S3Bucket7B29FD24"
+                                            "Ref": "AssetParameters8f67388725ad90565a6722df3ac6753be3f5599ccc72e558e542da90ea73ac2bS3BucketF797CD30"
                                           },
                                           "/*"
                                         ]
